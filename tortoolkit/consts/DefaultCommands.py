@@ -14,7 +14,7 @@ class Commands:
     SERVER = "server"
     USERSETTINGS = "usettings"
     INSTADL = "instadl"
-    START = "start"
+    
     USTATUS = "ustatus"
     SETTHUMB = "setthumb"
     CLRTHUMB = "clearthumb"
